@@ -6,7 +6,7 @@ function abrirpag(){
         window.location.href = "https://youtu.be/wd7JqXouRRA?si=WMBQ75ZC5Wozdr_X&t=43"
     }
     else{
-        alert("Por favor preencha os campos login,nome")
+        alert("Por favor preencha o campo nome")
     }
 
 }
